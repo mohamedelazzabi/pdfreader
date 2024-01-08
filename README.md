@@ -14,7 +14,7 @@ List of PDF files:
 
 Favorite:
 
-    favorit list : add pdf files to Favorite lise.
+    favorite list : add pdf files to Favorite list.
     
 
 Manage pdf:
