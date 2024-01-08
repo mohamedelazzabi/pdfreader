@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF skatītājs</string>
+    <string name="Bookmark">Grāmatzīme</string>
+    <string name="Setting">Iestatījums</string>
+    <string name="_delete_warning">Dzēst brīdinājumu!</string>
+    <string name="_delete_msg">Vai tiešām vēlaties dzēst šo failu</string>
+    <string name="_no">Nē</string>
+    <string name="_yes">Jā</string>
+    <string name="_rename_pdf">PDF faila pārdēvēšana</string>
+    <string name="_rename">Pārdēvēt</string>
+    <string name="_cancel">Atcelt</string>
+    <string name="_file_re_success">Fails veiksmīgi pārdēvēts</string>
+    <string name="_file_re_failed">Faila pārdēvēšana neizdevās</string>
+    <string name="_file_del_success">Fails veiksmīgi izdzēsts</string>
+    <string name="_file_del_failed">Neizdevās dzēst failu</string>
+    <string name="_shae">Kopīgojiet PDF failu</string>
+    <string name="_permission_not_granted">Atļauja nav piešķirta</string>
+    <string name="_delete">Dzēst</string>
+    <string name="_details">Detalizēta informācija</string>
+    <string name="_share">Kopīgot</string>
+    <string name="_adsloading">Notiek reklāmu ielāde</string>
+    <string name="_no_content">Šajā sarakstā nav satura!</string>
+    <string name="_permission_required">Nepieciešama atļauja</string>
+    <string name="_to_read_all_pdf">Lai lasītu visus PDF failus, atļaujiet PDF lasītājam piekļūt visiem failiem</string>
+    <string name="_allow">Atļaut</string>
+    <string name="_skip">Izlaist</string>
+    <string name="_helpus">palīdziet mums</string>
+    <string name="_feedback">Atsauksmes</string>
+    <string name="_rateus">Novērtējiet mūs</string>
+    <string name="_shareapp">Kopīgot lietotni</string>
+    <string name="_date_modified">Pārveidošanas datums</string>
+    <string name="_desc">Apraksts</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Nosaukums</string>
+    <string name="_filesize">Faila lielums</string>
+    <string name="_allfiles">Visi faili</string>
+    <string name="_print">Drukāt</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Meklēt</string>
+    <string name="_sort">Kārtot</string>
+
+
+</resources>

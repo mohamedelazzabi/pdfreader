@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-megjelenítő</string>
+    <string name="Bookmark">Könyvjelző</string>
+    <string name="Setting">Beállítás</string>
+    <string name="_delete_warning">Figyelmeztetés törlése!</string>
+    <string name="_delete_msg">Biztosan törli ezt a fájlt?</string>
+    <string name="_no">Nem</string>
+    <string name="_yes">Igen</string>
+    <string name="_rename_pdf">PDF átnevezése</string>
+    <string name="_rename">Átnevezés</string>
+    <string name="_cancel">Mégse</string>
+    <string name="_file_re_success">A fájl átnevezése sikeresen megtörtént</string>
+    <string name="_file_re_failed">A fájl átnevezése sikertelen</string>
+    <string name="_file_del_success">A fájl sikeresen törölve</string>
+    <string name="_file_del_failed">A fájl törlése sikertelen</string>
+    <string name="_shae">PDF-fájl megosztása</string>
+    <string name="_permission_not_granted">Az engedély nem biztosított</string>
+    <string name="_delete">Törlés</string>
+    <string name="_details">Részletek</string>
+    <string name="_share">Megosztás</string>
+    <string name="_adsloading">Hirdetések betöltése</string>
+    <string name="_no_content">Nincs tartalom ebben a listában!</string>
+    <string name="_permission_required">Engedély szükséges</string>
+    <string name="_to_read_all_pdf">Az összes PDF-fájl olvasásához engedélyezze a PDF-olvasónak az összes fájlhoz való hozzáférést</string>
+    <string name="_allow">Engedélyezés</string>
+    <string name="_skip">Kihagyás</string>
+    <string name="_helpus">segítsen nekünk</string>
+    <string name="_feedback">Visszajelzés</string>
+    <string name="_rateus">Értékeljen minket</string>
+    <string name="_shareapp">Alkalmazás megosztása</string>
+    <string name="_date_modified">Módosítás dátuma</string>
+    <string name="_desc">Leírás</string>
+    <string name="_asc">Növekvő</string>
+    <string name="_name">Név</string>
+    <string name="_filesize">Fájlméret</string>
+    <string name="_allfiles">Minden fájl</string>
+    <string name="_print">Nyomtatás</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Keresés</string>
+    <string name="_sort">Rendezés</string>
+
+
+</resources>

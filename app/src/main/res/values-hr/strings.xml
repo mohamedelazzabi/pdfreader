@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Preglednik PDF-a</string>
+    <string name="Bookmark">Oznaka</string>
+    <string name="Setting">Postavka</string>
+    <string name="_delete_warning">Brisanje upozorenja!</string>
+    <string name="_delete_msg">Jeste li sigurni da želite izbrisati ovu datoteku</string>
+    <string name="_no">Ne</string>
+    <string name="_yes">Da</string>
+    <string name="_rename_pdf">Preimenuj PDF</string>
+    <string name="_rename">Preimenuj</string>
+    <string name="_cancel">Odustani</string>
+    <string name="_file_re_success">Datoteka je uspješno preimenovana</string>
+    <string name="_file_re_failed">Preimenovanje datoteke nije uspjelo</string>
+    <string name="_file_del_success">Datoteka je uspješno izbrisana</string>
+    <string name="_file_del_failed">Brisanje datoteke nije uspjelo</string>
+    <string name="_shae">Dijeli PDF datoteku</string>
+    <string name="_permission_not_granted">Dozvola nije dana</string>
+    <string name="_delete">Izbriši</string>
+    <string name="_details">Detalji</string>
+    <string name="_share">Dijeli</string>
+    <string name="_adsloading">Oglasi se učitavaju</string>
+    <string name="_no_content">Nema sadržaja na ovom popisu!</string>
+    <string name="_permission_required">Potrebno dopuštenje</string>
+    <string name="_to_read_all_pdf">Za čitanje svih PDF datoteka, dopustite PDF čitaču pristup svim datotekama</string>
+    <string name="_allow">Dopusti</string>
+    <string name="_skip">Preskoči</string>
+    <string name="_helpus">pomozite nam</string>
+    <string name="_feedback">Povratne informacije</string>
+    <string name="_rateus">Ocijenite nas</string>
+    <string name="_shareapp">Podijelite aplikaciju</string>
+    <string name="_date_modified">Datum izmjene</string>
+    <string name="_desc">Opis</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Ime</string>
+    <string name="_filesize">Veličina datoteke</string>
+    <string name="_allfiles">Sve datoteke</string>
+    <string name="_print">Ispis</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Traži</string>
+    <string name="_sort">Sortiraj</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FontLocalized">
+        <item name="android:fontFamily">@font/dream</item>
+    </style>
+
+</resources>

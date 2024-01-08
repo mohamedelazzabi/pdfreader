@@ -1,0 +1,43 @@
+<resources>
+<string name="app_name">PDF ਦਰਸ਼ਕ</string>
+<string name="Bookmark">ਬੁੱਕਮਾਰਕ</string>
+<string name="Setting">ਸੈਟਿੰਗ</string>
+<string name="_delete_warning">ਚੇਤਾਵਨੀ ਮਿਟਾਓ!</string>
+<string name="_delete_msg">ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਫ਼ਾਈਲ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ</string>
+<string name="_no">ਨਹੀਂ</string>
+<string name="_yes">ਹਾਂ</string>
+<string name="_rename_pdf">PDF ਦਾ ਨਾਮ ਬਦਲੋ</string>
+<string name="_rename">ਨਾਮ ਬਦਲੋ</string>
+<string name="_cancel">ਰੱਦ ਕਰੋ</string>
+<string name="_file_re_success">ਫ਼ਾਈਲ ਦਾ ਨਾਮ ਸਫਲਤਾਪੂਰਵਕ ਬਦਲਿਆ ਗਿਆ</string>
+<string name="_file_re_failed">ਫਾਈਲ ਦਾ ਨਾਮ ਬਦਲਣਾ ਅਸਫਲ ਰਿਹਾ</string>
+<string name="_file_del_success">ਫ਼ਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਈ ਗਈ</string>
+<string name="_file_del_failed">ਫਾਇਲ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ</string>
+<string name="_shae">PDF ਫਾਈਲ ਸਾਂਝੀ ਕਰੋ</string>
+<string name="_permission_not_granted">ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਗਈ</string>
+<string name="_delete">ਮਿਟਾਓ</string>
+<string name="_details">ਵੇਰਵੇ</string>
+<string name="_share">ਸਾਂਝਾ ਕਰੋ</string>
+<string name="_adsloading">ਵਿਗਿਆਪਨ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ</string>
+<string name="_no_content">ਇਸ ਸੂਚੀ ਵਿੱਚ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਹੈ!</string>
+<string name="_permission_required">ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ</string>
+<string name="_to_read_all_pdf">ਸਾਰੀਆਂ PDF ਫਾਈਲਾਂ ਨੂੰ ਪੜ੍ਹਨ ਲਈ, PDF ਰੀਡਰ ਨੂੰ ਸਾਰੀਆਂ ਫਾਈਲਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦਿਓ</string>
+<string name = "_allow"> ਇਜਾਜ਼ਤ ਦਿਓ</string>
+<string name="_skip">ਛੱਡੋ</string>
+<string name="_helpus">ਸਾਡੀ ਮਦਦ ਕਰੋ</string>
+<string name="_feedback">ਫੀਡਬੈਕ</string>
+<string name="_rateus">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+<string name="_shareapp">ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ</string>
+<string name="_date_modified">ਸੋਧਣ ਦੀ ਮਿਤੀ</string>
+<string name="_desc">ਡੈਸਕ</string>
+<string name="_asc">Asc</string>
+<string name="_name">ਨਾਮ</string>
+<string name="_filesize">ਫਾਇਲ ਦਾ ਆਕਾਰ</string>
+<string name="_allfiles">ਸਾਰੀਆਂ ਫ਼ਾਈਲਾਂ</string>
+<string name="_print">ਪ੍ਰਿੰਟ ਕਰੋ</string>
+<string name="_rtl">Rtl</string>
+<string name="_search">ਖੋਜ</string>
+<string name="_sort">ਕ੍ਰਮਬੱਧ ਕਰੋ</string>
+
+
+    </resources>

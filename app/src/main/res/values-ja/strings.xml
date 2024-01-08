@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF ビューア</string>
+    <string name="Bookmark">ブックマーク</string>
+    <string name="Setting">設定</string>
+    <string name="_delete_warning">警告を削除してください!</string>
+    <string name="_delete_msg">このファイルを削除してもよろしいですか</string>
+    <string name="_no">いいえ</string>
+    <string name="_yes">はい</string>
+    <string name="_rename_pdf">PDF の名前を変更</string>
+    <string name="_rename">名前を変更</string>
+    <string name="_cancel">キャンセル</string>
+    <string name="_file_re_success">ファイルの名前が正常に変更されました</string>
+    <string name="_file_re_failed">ファイルの名前変更に失敗しました</string>
+    <string name="_file_del_success">ファイルは正常に削除されました</string>
+    <string name="_file_del_failed">ファイルの削除に失敗しました</string>
+    <string name="_shae">PDF ファイルを共有</string>
+    <string name="_permission_not_granted">許可がありません</string>
+    <string name="_delete">削除</string>
+    <string name="_details">詳細</string>
+    <string name="_share">共有</string>
+    <string name="_adsloading">広告読み込み中</string>
+    <string name="_no_content">このリストにはコンテンツがありません!</string>
+    <string name="_permission_required">許可が必要です</string>
+    <string name="_to_read_all_pdf">すべての PDF ファイルを読むには、PDF リーダーにすべてのファイルへのアクセスを許可してください</string>
+    <string name="_allow">許可</string>
+    <string name="_skip">スキップ</string>
+    <string name="_helpus">助けて</string>
+    <string name="_feedback">フィードバック</string>
+    <string name="_rateus">評価してください</string>
+    <string name="_shareapp">アプリを共有</string>
+    <string name="_date_modified">更新日</string>
+    <string name="_desc">説明</string>
+    <string name="_asc">昇順</string>
+    <string name="_name">名前</string>
+    <string name="_filesize">ファイルサイズ</string>
+    <string name="_allfiles">すべてのファイル</string>
+    <string name="_print">印刷</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">検索</string>
+    <string name="_sort">並べ替え</string>
+
+
+</resources>

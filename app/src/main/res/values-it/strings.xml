@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Visualizzatore PDF</string>
+    <string name="Bookmark">Segnalibro</string>
+    <string name="Setting">Impostazioni</string>
+    <string name="_delete_warning">Elimina avviso!</string>
+    <string name="_delete_msg">Sei sicuro di voler eliminare questo file</string>
+    <string name="_no">No</string>
+    <string name="_yes">Sì</string>
+    <string name="_rename_pdf">Rinomina PDF</string>
+    <string name="_rename">Rinomina</string>
+    <string name="_cancel">Annulla</string>
+    <string name="_file_re_success">File rinominato con successo</string>
+    <string name="_file_re_failed">Rinominazione file fallita</string>
+    <string name="_file_del_success">File eliminato con successo</string>
+    <string name="_file_del_failed">File eliminato non riuscito</string>
+    <string name="_shae">Condividi file PDF</string>
+    <string name="_permission_not_granted">Permesso non concesso</string>
+    <string name="_delete">Elimina</string>
+    <string name="_details">Dettagli</string>
+    <string name="_share">Condividi</string>
+    <string name="_adsloading">Caricamento annunci</string>
+    <string name="_no_content">Non ci sono contenuti in questa lista!</string>
+    <string name="_permission_required">Permesso richiesto</string>
+    <string name="_to_read_all_pdf">Per leggere tutti i file PDF, consenti a PDF Reader di accedere a tutti i file</string>
+    <string name="_allow">Permetti</string>
+    <string name="_skip">Salta</string>
+    <string name="_helpus">aiutaci</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Valutaci</string>
+    <string name="_shareapp">Condividi app</string>
+    <string name="_date_modified">Data modifica</string>
+    <string name="_desc">Descrizione</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Nome</string>
+    <string name="_filesize">Dimensione file</string>
+    <string name="_allfiles">Tutti i file</string>
+    <string name="_print">Stampa</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Cerca</string>
+    <string name="_sort">Ordina</string>
+
+
+</resources>

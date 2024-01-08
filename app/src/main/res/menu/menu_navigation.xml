@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/_allfiles" />
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/bookmark"
+        android:title="@string/Bookmark" />
+
+
+
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/settings"
+        android:title="@string/Setting" />
+
+</menu>

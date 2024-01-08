@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF դիտող</string>
+    <string name="Bookmark">Էջանիշ</string>
+    <string name="Setting">Կարգավորում</string>
+    <string name="_delete_warning">Ջնջել զգուշացումը:</string>
+    <string name="_delete_msg">Իսկապե՞ս ուզում եք ջնջել այս ֆայլը</string>
+    <string name="_no">Ոչ</string>
+    <string name="_yes">Այո</string>
+    <string name="_rename_pdf">Վերանվանել PDF-ը</string>
+    <string name="_rename">Վերանվանել</string>
+    <string name="_cancel">Չեղարկել</string>
+    <string name="_file_re_success">Ֆայլը հաջողությամբ վերանվանվեց</string>
+    <string name="_file_re_failed">Ֆայլի վերանվանումը ձախողվեց</string>
+    <string name="_file_del_success">Ֆայլը հաջողությամբ ջնջվեց</string>
+    <string name="_file_del_failed">Ֆայլը չհաջողվեց ջնջել</string>
+    <string name="_shae">Կիսվեք PDF ֆայլ</string>
+    <string name="_permission_not_granted">Թույլտվությունը տրված չէ</string>
+    <string name="_delete">Ջնջել</string>
+    <string name="_details">Մանրամասներ</string>
+    <string name="_share">Կիսվել</string>
+    <string name="_adsloading">Գովազդները բեռնվում են</string>
+    <string name="_no_content">Այս ցանկում բովանդակություն չկա:</string>
+    <string name="_permission_required">Պահանջվում է թույլտվություն</string>
+    <string name="_to_read_all_pdf">Բոլոր PDF ֆայլերը կարդալու համար թույլատրեք PDF Reader-ին մուտք գործել բոլոր ֆայլերը</string>
+    <string name="_allow">Թույլատրել</string>
+    <string name="_skip">Բաց թողնել</string>
+    <string name="_helpus">օգնեք մեզ</string>
+    <string name="_feedback">Հետադարձ կապ</string>
+    <string name="_rateus">Գնահատեք մեզ</string>
+    <string name="_shareapp">Կիսվել հավելվածով</string>
+    <string name="_date_modified">Փոփոխության ամսաթիվ</string>
+    <string name="_desc">Նկարագրություն</string>
+    <string name="_asc">Ավելացում</string>
+    <string name="_name">Անուն</string>
+    <string name="_filesize">Ֆայլի չափ</string>
+    <string name="_allfiles">Բոլոր ֆայլերը</string>
+    <string name="_print">Տպել</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Որոնում</string>
+    <string name="_sort">Տեսակավորել</string>
+
+
+</resources>

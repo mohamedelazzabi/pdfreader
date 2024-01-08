@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF ناظر</string>
+    <string name="Bookmark">بُک مارک</string>
+    <string name="Setting">ترتیب</string>
+    <string name="_delete_warning">انتباہ حذف کریں!</string>
+    <string name="_delete_msg">کیا آپ واقعی اس فائل کو حذف کرنا چاہتے ہیں</string>
+    <string name="_no">نہیں</string>
+    <string name="_yes">ہاں</string>
+    <string name="_rename_pdf">پی ڈی ایف کا نام تبدیل کریں</string>
+    <string name="_rename">نام تبدیل کریں</string>
+    <string name="_cancel">منسوخ کریں</string>
+    <string name="_file_re_success">فائل کا نام کامیابی سے بدل دیا گیا</string>
+    <string name="_file_re_failed">فائل کا نام تبدیل کرنے میں ناکام</string>
+    <string name="_file_del_success">فائل کامیابی سے حذف ہو گئی</string>
+    <string name="_file_del_failed">فائل کو حذف کرنا ناکام ہوگیا</string>
+    <string name="_shae">PDF فائل کا اشتراک کریں</string>
+    <string name="_permission_not_granted">اجازت نہیں دی گئی</string>
+    <string name="_delete">حذف کریں</string>
+    <string name="_details">تفصیلات</string>
+    <string name="_share">شیئر کریں</string>
+    <string name="_adsloading">اشتہارات کی لوڈنگ</string>
+    <string name="_no_content">اس فہرست میں کوئی مواد نہیں ہے!</string>
+    <string name="_permission_required">اجازت درکار ہے</string>
+    <string name="_to_read_all_pdf">تمام پی ڈی ایف فائلوں کو پڑھنے کے لیے، پی ڈی ایف ریڈر کو تمام فائلوں تک رسائی کی اجازت دیں</string>
+    <string name="_allow">اجازت دیں</string>
+    <string name="_skip">چھوڑیں</string>
+    <string name="_helpus">ہماری مدد کریں</string>
+    <string name="_feedback">فیڈ بیک</string>
+    <string name="_rateus">ہمیں درجہ دیں</string>
+    <string name="_shareapp">ایپ کا اشتراک کریں</string>
+    <string name = "_date_modified"> ترمیم کی تاریخ</string>
+    <string name="_desc">ڈیسک</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">نام</string>
+    <string name="_filesize">فائل کا سائز</string>
+    <string name="_allfiles">تمام فائلیں</string>
+    <string name="_print">پرنٹ کریں</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">تلاش</string>
+    <string name = "_sort"> ترتیب دیں</string>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name= "app_name" > ፒዲኤፍ መመልከቻ</string>
+    <string name="Bookmark">ዕልባት</string>
+    <string name="Setting">ማዋቀር</string>
+    <string name="_delete_warning">ማስጠንቀቂያ ሰርዝ!</string>
+    <string name="_delete_msg">እርግጠኛ ነዎት ይህን ፋይል መሰረዝ ይፈልጋሉ</string>
+    <string name="_no">አይ</string>
+    <string name="_yes">አዎ</string>
+    <string name="_rename_pdf">የፒዲኤፍን እንደገና ሰይም</string>
+    <string name="_rename">ዳግም ሰይም</string>
+    <string name="_cancel">ሰርዝ</string>
+    <string name="_file_re_success">ፋይሉ በተሳካ ሁኔታ ተቀይሯል</string>
+    <string name="_file_re_failed">ፋይል ዳግም መሰየም አልተሳካም</string>
+    <string name="_file_del_success">ፋይሉ በተሳካ ሁኔታ ተሰርዟል።</string>
+     <string name="_file_del_failed">ፋይሉ ተሰርዟል አልተሳካም</string>
+     <string name="_shae">የፒዲኤፍ ፋይል አጋራ</string>
+     <string name="_permission_not_granted">ፍቃድ አልተሰጠም</string>
+     <string name="_delete">ሰርዝ</string>
+     <string name="_details">ዝርዝሮች</string>
+     <string name="_share">አጋራ</string>
+     <string name="_adsloading">ማስታወቂያዎች በመጫን ላይ</string>
+     <string name="_no_content">በዚህ ዝርዝር ውስጥ ምንም ይዘቶች የሉም!</string>
+     <string name="_permission_required">ፈቃድ ያስፈልጋል</string>
+     <string name="_to_read_all_pdf">ሁሉንም ፒዲኤፍ ፋይሎች ለማንበብ ፒዲኤፍ አንባቢ ሁሉንም ፋይሎች እንዲደርስ ፍቀድለት</string>
+     <string name="_allow">ፍቀድ</string>
+     <string name="_skip">ዝለል</string>
+     <string name="_helpus">ይርዳን</string>
+     <string name="_feedback">ግብረመልስ</string>
+     <string name="_rateus">ደረጃ ስጥልን</string>
+     <string name="_shareapp">መተግበሪያ አጋራ</string>
+     <string name="_date_modified">የተሻሻለበት ቀን</string>
+     <string name="_desc">Desc</string>
+     <string name="_asc">አስc</string>
+     <string name="_name">ስም</string>
+     <string name="_filesize">የፋይል መጠን</string>
+     <string name="_allfiles">ሁሉም ፋይሎች</string>
+     <string name="_print">አትም</string>
+     <string name="_rtl">አርትኤል</string>
+     <string name="_search">ፈልግ</string>
+     <string name="_sort">ደርድር</string>
+
+
+</resources>

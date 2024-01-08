@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Amharcóir PDF</string>
+    <string name="Bookmark">Leabharmharc</string>
+    <string name="Setting">Socrú</string>
+    <string name="_delete_warning">Scrios Rabhadh!</string>
+    <string name="_delete_msg">An bhfuil tú cinnte gur mian leat an comhad seo a scriosadh</string>
+    <string name="_no">Níl</string>
+    <string name="_yes">Tá</string>
+    <string name="_rename_pdf">Athainmnigh PDF</string>
+    <string name="_rename">Athainmnigh</string>
+    <string name="_cancel">Cealaigh</string>
+    <string name="_file_re_success">D\'éirigh le hathainmniú an chomhaid</string>
+    <string name="_file_re_failed">Theip ar athainmniú an chomhaid</string>
+    <string name="_file_del_success">D\'éirigh le scriosadh an chomhaid</string>
+    <string name="_file_del_failed">Theip ar scriosadh an chomhaid</string>
+    <string name="_shae">Comhroinn comhad PDF</string>
+    <string name="_permission_not_granted">Níor tugadh cead</string>
+    <string name="_delete">Scrios</string>
+    <string name="_details">Sonraí</string>
+    <string name="_share"> Roinn</string>
+    <string name="_adsloading"> Fógraí á lódáil</string>
+    <string name="_no_content">Níl aon ábhar ar an liosta seo!</string>
+    <string name="_permission_required">Cead ag Teastáil</string>
+    <string name="_to_read_all_pdf">Chun gach comhad PDF a léamh, ceadaigh do Léitheoir PDF rochtain a fháil ar gach comhad</string>
+    <string name="_allow">Ceadaigh</string>
+    <string name="_skip">Scipeáil</string>
+    <string name="_helpus">cuidigh linn</string>
+    <string name="_feedback">Aiseolas</string>
+    <string name="_rateus">Rátáil sinn</string>
+    <string name="_shareapp">Comhroinn aip</string>
+    <string name="_date_modified">Dáta Athraithe</string>
+    <string name="_desc">Desc</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Ainm</string>
+    <string name="_filesize">Méid an Chomhaid</string>
+    <string name="_allfiles">Gach comhad</string>
+    <string name="_print">Priontáil</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Cuardaigh</string>
+    <string name="_sort">Sórtáil</string>
+
+
+</resources>

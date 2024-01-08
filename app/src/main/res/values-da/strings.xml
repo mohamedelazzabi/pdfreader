@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-fremviser</string>
+    <string name="Bookmark">Bogmærke</string>
+    <string name="Setting">Indstilling</string>
+    <string name="_delete_warning">Slet advarsel!</string>
+    <string name="_delete_msg">Er du sikker på, at du vil slette denne fil</string>
+    <string name="_no">Nej</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">Omdøb PDF</string>
+    <string name="_rename">Omdøb</string>
+    <string name="_cancel">Annuller</string>
+    <string name="_file_re_success">Fil omdøbt med succes</string>
+    <string name="_file_re_failed">Filomdøbning mislykkedes</string>
+    <string name="_file_del_success">Fil blev slettet</string>
+    <string name="_file_del_failed">Slettet fil mislykkedes</string>
+    <string name="_shae">Del PDF-fil</string>
+    <string name="_permission_not_granted">Tilladelse ikke givet</string>
+    <string name="_delete">Slet</string>
+    <string name="_details">Detaljer</string>
+    <string name="_share">Del</string>
+    <string name="_adsloading">Annoncer indlæses</string>
+    <string name="_no_content">Der er intet indhold på denne liste!</string>
+    <string name="_permission_required">Tilladelse påkrævet</string>
+    <string name="_to_read_all_pdf">For at læse alle PDF-filer skal du give PDF Reader adgang til alle filer</string>
+    <string name="_allow">Tillad</string>
+    <string name="_skip">Spring over</string>
+    <string name="_helpus">hjælp os</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Vurder os</string>
+    <string name="_shareapp">Del app</string>
+    <string name="_date_modified">Ændringsdato</string>
+    <string name="_desc">Beskriv</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Navn</string>
+    <string name="_filesize">Filstørrelse</string>
+    <string name="_allfiles">Alle filer</string>
+    <string name="_print">Udskriv</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Søg</string>
+    <string name="_sort">Sortér</string>
+
+
+</resources>

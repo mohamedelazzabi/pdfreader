@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Setting">Tetapan</string>
+    <string name="_delete_warning">Padamkan Amaran!</string>
+    <string name="_delete_msg">Adakah anda pasti mahu memadamkan fail ini</string>
+    <string name="_no">Tidak</string>
+    <string name="_yes">Ya</string>
+    <string name="_rename_pdf">Namakan semula PDF</string>
+    <string name="_rename">Namakan semula</string>
+    <string name="_cancel">Batal</string>
+    <string name="_file_re_success">Fail berjaya dinamakan semula</string>
+    <string name="_file_re_failed">Nama semula fail gagal</string>
+    <string name="_file_del_success">Fail berjaya dipadamkan</string>
+    <string name="_file_del_failed">Fail dipadamkan gagal</string>
+    <string name="_shae">Kongsi fail PDF</string>
+    <string name="_permission_not_granted">Kebenaran tidak diberikan</string>
+    <string name="_delete">Padam</string>
+    <string name="_details">Butiran</string>
+    <string name="_share">Kongsi</string>
+    <string name="_adsloading">Iklan Memuatkan</string>
+    <string name="_no_content">Tiada kandungan dalam senarai ini!</string>
+    <string name="_permission_required">Kebenaran Diperlukan</string>
+    <string name="_to_read_all_pdf">Untuk membaca semua fail PDF, benarkan Pembaca PDF mengakses semua fail</string>
+    <string name="_allow">Benarkan</string>
+    <string name="_skip">Skip</string>
+    <string name="_helpus">bantu kami</string>
+    <string name="_feedback">Maklum balas</string>
+    <string name="_rateus">Nilai kami</string>
+    <string name="_shareapp">Kongsi apl</string>
+    <string name="_date_modified">Tarikh Diubah Suai</string>
+    <string name="_desc">Desc</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Nama</string>
+    <string name="_filesize">Saiz Fail</string>
+    <string name="_allfiles">Semua fail</string>
+    <string name="_print">Cetak</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Cari</string>
+    <string name="_sort">Isih</string>
+
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+  android:id="@+id/menu1"
+    android:title="@string/_print"
+    android:icon="@drawable/print_white"
+        app:showAsAction="ifRoom"
+
+        />
+    <item
+        android:id="@+id/horizontalview"
+        android:title="@string/_rtl"
+        android:icon="@drawable/flip"
+        app:showAsAction="ifRoom"
+
+        />
+
+<item
+android:id="@+id/menu2"
+android:title="@string/_delete" />
+
+
+
+
+</menu>

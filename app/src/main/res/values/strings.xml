@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Setting">Setting</string>
+    <string name="_delete_warning">Delete Warning!</string>
+    <string name="_delete_msg">Are you sure you want to delete this file</string>
+    <string name="_no">No</string>
+    <string name="_yes">Yes</string>
+    <string name="_rename_pdf">Rename PDF</string>
+    <string name="_rename">Rename</string>
+    <string name="_cancel">Cancel</string>
+    <string name="_file_re_success">File renamed successfully</string>
+    <string name="_file_re_failed">File rename failed</string>
+    <string name="_file_del_success">File deleted successfully</string>
+    <string name="_file_del_failed">File deleted failed</string>
+    <string name="_shae">Share PDF file</string>
+    <string name="_permission_not_granted">Permission not granted</string>
+    <string name="_delete">Delete</string>
+    <string name="_details">Details</string>
+    <string name="_share">Share</string>
+    <string name="_adsloading">Ads Loading</string>
+    <string name="_no_content">There are no contents in this list!</string>
+    <string name="_permission_required">Permission Required</string>
+    <string name="_to_read_all_pdf">To read all PDF files, allow PDF Reader access all files</string>
+    <string name="_allow">Allow</string>
+    <string name="_skip">Skip</string>
+    <string name="_helpus">help us</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Rate us</string>
+    <string name="_shareapp">Share app</string>
+    <string name="_date_modified">Date Modified</string>
+    <string name="_desc">Desc</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Name</string>
+    <string name="_filesize">File Size</string>
+    <string name="_allfiles">All files</string>
+    <string name="_print">Print</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Search</string>
+    <string name="_sort">Sort</string>
+
+
+</resources>

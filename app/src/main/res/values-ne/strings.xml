@@ -1,0 +1,43 @@
+<resources>
+<string name="app_name">PDF दर्शक</string>
+<string name="Bookmark">बुकमार्क</string>
+<string name="Setting">सेटिङ</string>
+<string name="_delete_warning">चेतावनी मेटाउनुहोस्!</string>
+<string name="_delete_msg">के तपाइँ यो फाइल मेटाउन निश्चित हुनुहुन्छ</string>
+<string name="_no">होइन</string>
+<string name="_yes">हो</string>
+<string name="_rename_pdf">PDF पुननामाकरण गर्नुहोस्</string>
+<string name="_rename">पुन:नामाकरण</string>
+<string name="_cancel">रद्द गर्नुहोस्</string>
+<string name="_file_re_success">फाइल सफलतापूर्वक पुन: नामाकरण गरियो</string>
+<string name="_file_re_failed">फाइल पुन:नामकरण असफल भयो</string>
+<string name="_file_del_success">फाइल सफलतापूर्वक मेटाइयो</string>
+<string name="_file_del_failed">फाइल मेटाउन असफल भयो</string>
+<string name="_shae">PDF फाइल साझेदारी गर्नुहोस्</string>
+<string name="_permission_not_granted">अनुमति दिइएको छैन</string>
+<string name="_delete">मेट्नुहोस्</string>
+<string name="_details">विवरणहरू</string>
+<string name="_share">साझेदारी</string>
+<string name="_adsloading">विज्ञापन लोड हुँदै</string>
+<string name="_no_content">यस सूचीमा कुनै पनि सामग्री छैन!</string>
+<string name="_permission_required">अनुमति आवश्यक</string>
+<string name="_to_read_all_pdf">सबै PDF फाइलहरू पढ्नको लागि, PDF Reader लाई सबै फाइलहरू पहुँच गर्न अनुमति दिनुहोस्</string>
+<string name="_allow">अनुमति दिनुहोस्</string>
+<string name="_skip">छाड्नुहोस्</string>
+<string name="_helpus">हामीलाई मद्दत गर्नुहोस्</string>
+<string name="_feedback">प्रतिक्रिया</string>
+<string name = "_rateus"> हामीलाई मूल्याङ्कन गर्नुहोस्</string>
+<string name="_shareapp">अनुप्रयोग साझेदारी गर्नुहोस्</string>
+<string name="_date_modified">परिमार्जन गरिएको मिति</string>
+<string name="_desc">डिस्क</string>
+<string name="_asc">Asc</string>
+<string name="_name">नाम</string>
+<string name="_filesize">फाइल साइज</string>
+<string name="_allfiles">सबै फाइलहरू</string>
+<string name="_print">छाप्नुहोस्</string>
+<string name="_rtl">Rtl</string>
+<string name="_search">खोज</string>
+<string name = "_sort"> क्रमबद्ध गर्नुहोस्</string>
+
+
+    </resources>

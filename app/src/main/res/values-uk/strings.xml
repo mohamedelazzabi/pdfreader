@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Перегляд PDF</string>
+    <string name="Bookmark">Закладка</string>
+    <string name="Setting">Налаштування</string>
+    <string name="_delete_warning">Видалити попередження!</string>
+    <string name="_delete_msg">Ви впевнені, що хочете видалити цей файл</string>
+    <string name="_no">Ні</string>
+    <string name="_yes">Так</string>
+    <string name="_rename_pdf">Перейменувати PDF</string>
+    <string name="_rename">Перейменувати</string>
+    <string name="_cancel">Скасувати</string>
+    <string name="_file_re_success">Файл успішно перейменовано</string>
+    <string name="_file_re_failed">Не вдалося перейменувати файл</string>
+    <string name="_file_del_success">Файл успішно видалено</string>
+    <string name="_file_del_failed">Не вдалося видалити файл</string>
+    <string name="_shae">Поділитися файлом PDF</string>
+    <string name="_permission_not_granted">Дозвіл не надано</string>
+    <string name="_delete">Видалити</string>
+    <string name="_details">Деталі</string>
+    <string name="_share">Поділитися</string>
+    <string name="_adsloading">Завантаження оголошень</string>
+    <string name="_no_content">У цьому списку немає вмісту!</string>
+    <string name="_permission_required">Потрібен дозвіл</string>
+    <string name="_to_read_all_pdf">Щоб читати всі PDF-файли, надайте PDF Reader доступ до всіх файлів</string>
+    <string name="_allow">Дозволити</string>
+    <string name="_skip">Пропустити</string>
+    <string name="_helpus">допоможіть нам</string>
+    <string name="_feedback">Відгук</string>
+    <string name="_rateus">Оцініть нас</string>
+    <string name="_shareapp">Поділитися програмою</string>
+    <string name="_date_modified">Дата зміни</string>
+    <string name="_desc">Опис</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Ім\'я</string>
+    <string name="_filesize">Розмір файлу</string>
+    <string name="_allfiles">Усі файли</string>
+    <string name="_print">Друк</string>
+    <string name="_rtl">RTL</string>
+    <string name="_search">Пошук</string>
+    <string name="_sort">Сортувати</string>
+
+
+</resources>

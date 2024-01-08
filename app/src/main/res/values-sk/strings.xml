@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Prehliadač PDF</string>
+    <string name="Bookmark">Záložka</string>
+    <string name="Setting">Nastavenie</string>
+    <string name="_delete_warning">Odstrániť upozornenie!</string>
+    <string name="_delete_msg">Naozaj chcete odstrániť tento súbor</string>
+    <string name="_no">Nie</string>
+    <string name="_yes">Áno</string>
+    <string name="_rename_pdf">Premenovať PDF</string>
+    <string name="_rename">Premenovať</string>
+    <string name="_cancel">Zrušiť</string>
+    <string name="_file_re_success">Súbor bol úspešne premenovaný</string>
+    <string name="_file_re_failed">Premenovanie súboru zlyhalo</string>
+    <string name="_file_del_success">Súbor bol úspešne odstránený</string>
+    <string name="_file_del_failed">Odstránenie súboru zlyhalo</string>
+    <string name="_shae">Zdieľať súbor PDF</string>
+    <string name="_permission_not_granted">Povolenie nebolo udelené</string>
+    <string name="_delete">Odstrániť</string>
+    <string name="_details">Podrobnosti</string>
+    <string name="_share">Zdieľať</string>
+    <string name="_adsloading">Načítavanie reklám</string>
+    <string name="_no_content">V tomto zozname nie je žiadny obsah!</string>
+    <string name="_permission_required">Vyžaduje sa povolenie</string>
+    <string name="_to_read_all_pdf">Ak chcete čítať všetky súbory PDF, povoľte aplikácii PDF Reader prístup ku všetkým súborom</string>
+    <string name="_allow">Povoliť</string>
+    <string name="_skip">Preskočiť</string>
+    <string name="_helpus">pomôžte nám</string>
+    <string name="_feedback">Spätná väzba</string>
+    <string name="_rateus">Ohodnoťte nás</string>
+    <string name="_shareapp">Zdieľať aplikáciu</string>
+    <string name="_date_modified">Dátum úpravy</string>
+    <string name="_desc">Popis</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Názov</string>
+    <string name="_filesize">Veľkosť súboru</string>
+    <string name="_allfiles">Všetky súbory</string>
+    <string name="_print">Tlačiť</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Hľadať</string>
+    <string name="_sort">Zoradiť</string>
+
+
+</resources>

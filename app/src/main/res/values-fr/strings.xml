@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Visionneuse PDF</string>
+    <string name="Bookmark">Signet</string>
+    <string name="Setting">Paramètre</string>
+    <string name="_delete_warning">Supprimer l\'avertissement!</string>
+    <string name="_delete_msg">Êtes-vous sûr de vouloir supprimer ce fichier</string>
+    <string name="_no">Non</string>
+    <string name="_yes">Oui</string>
+    <string name="_rename_pdf">Renommer le PDF</string>
+    <string name="_rename">Renommer</string>
+    <string name="_cancel">Annuler</string>
+    <string name="_file_re_success">Fichier renommé avec succès</string>
+    <string name="_file_re_failed">Échec du renommage du fichier</string>
+    <string name="_file_del_success">Fichier supprimé avec succès</string>
+    <string name="_file_del_failed">Échec de la suppression du fichier</string>
+    <string name="_shae">Partager le fichier PDF</string>
+    <string name="_permission_not_granted">Autorisation non accordée</string>
+    <string name="_delete">Supprimer</string>
+    <string name="_details">Détails</string>
+    <string name="_share">Partager</string>
+    <string name="_adsloading">Chargement des annonces</string>
+    <string name="_no_content">Il n\'y a aucun contenu dans cette liste!</string>
+    <string name="_permission_required">Autorisation requise</string>
+    <string name="_to_read_all_pdf">Pour lire tous les fichiers PDF, autorisez PDF Reader à accéder à tous les fichiers</string>
+    <string name="_allow">Autoriser</string>
+    <string name="_skip">Ignorer</string>
+    <string name="_helpus">aidez-nous</string>
+    <string name="_feedback">Commentaires</string>
+    <string name="_rateus">Évaluez-nous</string>
+    <string name="_shareapp">Partager l\'application</string>
+    <string name="_date_modified">Date de modification</string>
+    <string name="_desc">Description</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Nom</string>
+    <string name="_filesize">Taille du fichier</string>
+    <string name="_allfiles">Tous les fichiers</string>
+    <string name="_print">Imprimer</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Rechercher</string>
+    <string name="_sort">Trier</string>
+
+
+</resources>

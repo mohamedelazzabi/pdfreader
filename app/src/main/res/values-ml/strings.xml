@@ -1,0 +1,43 @@
+<resources>
+<string name="app_name">PDF വ്യൂവർ</string>
+<string name="Bookmark">Bookmark</string>
+<string name="Setting">ക്രമീകരണം</string>
+<string name="_delete_warning">മുന്നറിയിപ്പ് ഇല്ലാതാക്കുക!</string>
+<string name="_delete_msg">ഈ ഫയൽ ഇല്ലാതാക്കണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ</string>
+<string name="_no">ഇല്ല</string>
+<string name="_yes">അതെ</string>
+<string name="_rename_pdf">PDF പുനർനാമകരണം ചെയ്യുക</string>
+<string name="_rename">പേരുമാറ്റുക</string>
+<string name="_cancel">റദ്ദാക്കുക</string>
+<string name="_file_re_success">ഫയൽ പേരുമാറ്റി</string>
+<string name="_file_re_failed">ഫയലിന്റെ പേരുമാറ്റം പരാജയപ്പെട്ടു</string>
+<string name="_file_del_success">ഫയൽ വിജയകരമായി ഇല്ലാതാക്കി</string>
+<string name="_file_del_failed">ഫയൽ ഇല്ലാതാക്കിയത് പരാജയപ്പെട്ടു</string>
+<string name="_shae">PDF ഫയൽ പങ്കിടുക</string>
+<string name="_permission_not_granted">അനുമതി നൽകിയിട്ടില്ല</string>
+<string name="_delete">ഇല്ലാതാക്കുക</string>
+<string name="_details">വിശദാംശങ്ങൾ</string>
+<string name="_share">പങ്കിടുക</string>
+<string name="_adsloading">പരസ്യങ്ങൾ ലോഡുചെയ്യുന്നു</string>
+<string name="_no_content">ഈ ലിസ്റ്റിൽ ഉള്ളടക്കങ്ങളൊന്നുമില്ല!</string>
+<string name="_permission_required">അനുമതി ആവശ്യമാണ്</string>
+<string name="_to_read_all_pdf">എല്ലാ PDF ഫയലുകളും വായിക്കാൻ, എല്ലാ ഫയലുകളും ആക്‌സസ് ചെയ്യാൻ PDF റീഡറിനെ അനുവദിക്കുക</string>
+<string name="_allow">അനുവദിക്കുക</string>
+<string name="_skip">ഒഴിവാക്കുക</string>
+<string name="_helpus">ഞങ്ങളെ സഹായിക്കൂ</string>
+<string name="_feedback">ഫീഡ്‌ബാക്ക്</string>
+<string name="_rateus">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
+<string name="_shareapp">ആപ്പ് പങ്കിടുക</string>
+<string name="_date_modified">തിയതി പരിഷ്കരിച്ചു</string>
+<string name="_desc">Desc</string>
+<string name="_asc">Asc</string>
+<string name="_name">പേര്</string>
+<string name="_filesize">ഫയൽ വലുപ്പം</string>
+<string name="_allfiles">എല്ലാ ഫയലുകളും</string>
+<string name="_print">പ്രിന്റ്</string>
+<string name="_rtl">Rtl</string>
+<string name="_search">തിരയൽ</string>
+<string name="_sort">ക്രമീകരിക്കുക</string>
+
+
+    </resources>

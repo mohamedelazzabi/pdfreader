@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-katseluohjelma</string>
+    <string name="Bookmark">Kirjanmerkki</string>
+    <string name="Setting">Asetus</string>
+    <string name="_delete_warning">Poista varoitus!</string>
+    <string name="_delete_msg">Haluatko varmasti poistaa tämän tiedoston</string>
+    <string name="_no">Ei</string>
+    <string name="_yes">Kyllä</string>
+    <string name="_rename_pdf">Nimeä PDF uudelleen</string>
+    <string name="_rename">Nimeä uudelleen</string>
+    <string name="_cancel">Peruuta</string>
+    <string name="_file_re_success">Tiedoston uudelleennimeäminen onnistui</string>
+    <string name="_file_re_failed">Tiedoston uudelleennimeäminen epäonnistui</string>
+    <string name="_file_del_success">Tiedoston poistaminen onnistui</string>
+    <string name="_file_del_failed">Tiedoston poistaminen epäonnistui</string>
+    <string name="_shae">Jaa PDF-tiedosto</string>
+    <string name="_permission_not_granted">Lupaa ei myönnetty</string>
+    <string name="_delete">Poista</string>
+    <string name="_details">Tiedot</string>
+    <string name="_share">Jaa</string>
+    <string name="_adsloading">Mainoksia ladataan</string>
+    <string name="_no_content">Tässä luettelossa ei ole sisältöä!</string>
+    <string name="_permission_required">Vaaditaan lupa</string>
+    <string name="_to_read_all_pdf">Voit lukea kaikkia PDF-tiedostoja antamalla PDF-lukijalle pääsyn kaikkiin tiedostoihin</string>
+    <string name="_allow">Salli</string>
+    <string name="_skip">Ohita</string>
+    <string name="_helpus">auta meitä</string>
+    <string name="_feedback">Palaute</string>
+    <string name="_rateus">Arvioi meidät</string>
+    <string name="_shareapp">Jaa sovellus</string>
+    <string name="_date_modified">Muokkauspäivämäärä</string>
+    <string name="_desc">Kuvaus</string>
+    <string name="_asc">Nouseva</string>
+    <string name="_name">Nimi</string>
+    <string name="_filesize">Tiedoston koko</string>
+    <string name="_allfiles">Kaikki tiedostot</string>
+    <string name="_print">Tulosta</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Hae</string>
+    <string name="_sort">Lajittele</string>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-visning</string>
+    <string name="Bookmark">Bokmerke</string>
+    <string name="Setting">Innstilling</string>
+    <string name="_delete_warning">Slett advarsel!</string>
+    <string name="_delete_msg">Er du sikker på at du vil slette denne filen</string>
+    <string name="_no">Nei</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">Gi nytt navn til PDF</string>
+    <string name="_rename">Gi nytt navn</string>
+    <string name="_cancel">Avbryt</string>
+    <string name="_file_re_success">Fil endret navn</string>
+    <string name="_file_re_failed">Endring av fil mislyktes</string>
+    <string name="_file_del_success">Fil slettet</string>
+    <string name="_file_del_failed">Fil slettet mislyktes</string>
+    <string name="_shae">Del PDF-fil</string>
+    <string name="_permission_not_granted">Tillatelse ikke gitt</string>
+    <string name="_delete">Slett</string>
+    <string name="_details">Detaljer</string>
+    <string name="_share">Del</string>
+    <string name="_adsloading">Annonser lastes inn</string>
+    <string name="_no_content">Det er ikke noe innhold i denne listen!</string>
+    <string name="_permission_required">Tillatelse kreves</string>
+    <string name="_to_read_all_pdf">For å lese alle PDF-filer, gi PDF-leser tilgang til alle filer</string>
+    <string name="_allow">Tillat</string>
+    <string name="_skip">Hopp over</string>
+    <string name="_helpus">hjelp oss</string>
+    <string name="_feedback">Tilbakemelding</string>
+    <string name="_rateus">Vurder oss</string>
+    <string name="_shareapp">Del app</string>
+    <string name="_date_modified">Dato endret</string>
+    <string name="_desc">Beskriv</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Navn</string>
+    <string name="_filesize">Filstørrelse</string>
+    <string name="_allfiles">Alle filer</string>
+    <string name="_print">Skriv ut</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Søk</string>
+    <string name="_sort">Sorter</string>
+
+
+</resources>

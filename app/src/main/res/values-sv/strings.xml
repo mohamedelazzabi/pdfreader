@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-läsare</string>
+    <string name="Bookmark">Bokmärke</string>
+    <string name="Setting">Inställning</string>
+    <string name="_delete_warning">Ta bort varning!</string>
+    <string name="_delete_msg">Är du säker på att du vill ta bort den här filen</string>
+    <string name="_no">Nej</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">Byt namn på PDF</string>
+    <string name="_rename">Byt namn</string>
+    <string name="_cancel">Avbryt</string>
+    <string name="_file_re_success">Fil har bytt namn</string>
+    <string name="_file_re_failed">Filbyte misslyckades</string>
+    <string name="_file_del_success">Fil raderades framgångsrikt</string>
+    <string name="_file_del_failed">Fil borttagen misslyckades</string>
+    <string name="_shae">Dela PDF-fil</string>
+    <string name="_permission_not_granted">Behörighet har inte beviljats</string>
+    <string name="_delete">Ta bort</string>
+    <string name="_details">Information</string>
+    <string name="_share">Dela</string>
+    <string name="_adsloading">Annonser laddas</string>
+    <string name="_no_content">Det finns inget innehåll i den här listan!</string>
+    <string name="_permission_required">Behörighet krävs</string>
+    <string name="_to_read_all_pdf">För att läsa alla PDF-filer, tillåt PDF Reader åtkomst till alla filer</string>
+    <string name="_allow">Tillåt</string>
+    <string name="_skip">Hoppa över</string>
+    <string name="_helpus">hjälp oss</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Betygsätt oss</string>
+    <string name="_shareapp">Dela app</string>
+    <string name="_date_modified">Ändringsdatum</string>
+    <string name="_desc">Beskriv</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Namn</string>
+    <string name="_filesize">Filstorlek</string>
+    <string name="_allfiles">Alla filer</string>
+    <string name="_print">Skriv ut</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Sök</string>
+    <string name="_sort">Sortera</string>
+
+
+</resources>

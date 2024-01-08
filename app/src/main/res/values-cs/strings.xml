@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Prohlížeč PDF</string>
+    <string name="Bookmark">Záložka</string>
+    <string name="Setting">Nastavení</string>
+    <string name="_delete_warning">Smazat upozornění!</string>
+    <string name="_delete_msg">Opravdu chcete tento soubor smazat</string>
+    <string name="_no">Ne</string>
+    <string name="_yes">Ano</string>
+    <string name="_rename_pdf">Přejmenovat PDF</string>
+    <string name="_rename">Přejmenovat</string>
+    <string name="_cancel">Zrušit</string>
+    <string name="_file_re_success">Soubor byl úspěšně přejmenován</string>
+    <string name="_file_re_failed">Přejmenování souboru se nezdařilo</string>
+    <string name="_file_del_success">Soubor byl úspěšně smazán</string>
+    <string name="_file_del_failed">Smazání souboru se nezdařilo</string>
+    <string name="_shae">Sdílet soubor PDF</string>
+    <string name="_permission_not_granted">Povolení nebylo uděleno</string>
+    <string name="_delete">Smazat</string>
+    <string name="_details">Podrobnosti</string>
+    <string name="_share">Sdílet</string>
+    <string name="_adsloading">Načítání reklam</string>
+    <string name="_no_content">V tomto seznamu není žádný obsah!</string>
+    <string name="_permission_required">Vyžadováno oprávnění</string>
+    <string name="_to_read_all_pdf">Chcete-li číst všechny soubory PDF, povolte aplikaci PDF Reader přístup ke všem souborům</string>
+    <string name="_allow">Povolit</string>
+    <string name="_skip">Přeskočit</string>
+    <string name="_helpus">pomozte nám</string>
+    <string name="_feedback">Zpětná vazba</string>
+    <string name="_rateus">Ohodnoťte nás</string>
+    <string name="_shareapp">Sdílet aplikaci</string>
+    <string name="_date_modified">Datum změny</string>
+    <string name="_desc">Popis</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Název</string>
+    <string name="_filesize">Velikost souboru</string>
+    <string name="_allfiles">Všechny soubory</string>
+    <string name="_print">Tisk</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Hledat</string>
+    <string name="_sort">Řadit</string>
+
+
+</resources>

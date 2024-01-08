@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-i vaatur</string>
+    <string name="Bookmark">Järjehoidja</string>
+    <string name="Setting">Seadistus</string>
+    <string name="_delete_warning">Kustuta hoiatus!</string>
+    <string name="_delete_msg">Kas soovite kindlasti selle faili kustutada</string>
+    <string name="_no">Ei</string>
+    <string name="_yes">Jah</string>
+    <string name="_rename_pdf">PDF-i ümbernimetamine</string>
+    <string name="_rename">Nimeta ümber</string>
+    <string name="_cancel">Tühista</string>
+    <string name="_file_re_success">Faili ümbernimetamine õnnestus</string>
+    <string name="_file_re_failed">Faili ümbernimetamine ebaõnnestus</string>
+    <string name="_file_del_success">Faili kustutamine õnnestus</string>
+    <string name="_file_del_failed">Faili kustutamine ebaõnnestus</string>
+    <string name="_shae">PDF-faili jagamine</string>
+    <string name="_permission_not_granted">Luba ei antud</string>
+    <string name="_delete">Kustuta</string>
+    <string name="_details">Üksikasjad</string>
+    <string name="_share">Jaga</string>
+    <string name="_adsloading">Reklaamide laadimine</string>
+    <string name="_no_content">Selles loendis pole sisu!</string>
+    <string name="_permission_required">Nõutav on luba</string>
+    <string name="_to_read_all_pdf">Kõigi PDF-failide lugemiseks lubage PDF-lugejal juurdepääs kõigile failidele</string>
+    <string name="_allow">Luba</string>
+    <string name="_skip">Jäta vahele</string>
+    <string name="_helpus">aidake meid</string>
+    <string name="_feedback">Tagasiside</string>
+    <string name="_rateus">Hinda meid</string>
+    <string name="_shareapp">Jagage rakendust</string>
+    <string name="_date_modified">Muutmise kuupäev</string>
+    <string name="_desc">Kirjeldus</string>
+    <string name="_asc">Kasvav</string>
+    <string name="_name">Nimi</string>
+    <string name="_filesize">Faili suurus</string>
+    <string name="_allfiles">Kõik failid</string>
+    <string name="_print">Prindi</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Otsi</string>
+    <string name="_sort">Sordi</string>
+
+
+</resources>

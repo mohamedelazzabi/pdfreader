@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Trình xem PDF</string>
+    <string name="Bookmark">Dấu trang</string>
+    <string name="Setting">Cài đặt</string>
+    <string name="_delete_warning">Xóa cảnh báo!</string>
+    <string name="_delete_msg">Bạn có chắc chắn muốn xóa tập tin này không</string>
+    <string name="_no">Không</string>
+    <string name="_yes">Có</string>
+    <string name="_rename_pdf">Đổi tên PDF</string>
+    <string name="_rename">Đổi tên</string>
+    <string name="_cancel">Hủy</string>
+    <string name="_file_re_success">Đã đổi tên tệp thành công</string>
+    <string name="_file_re_failed">Đổi tên file không thành công</string>
+    <string name="_file_del_success">Đã xóa tệp thành công</string>
+    <string name="_file_del_failed">Xóa tệp không thành công</string>
+    <string name="_shae">Chia sẻ tệp PDF</string>
+    <string name="_permission_not_granted">Không được cấp quyền</string>
+    <string name="_delete">Xóa</string>
+    <string name="_details">Chi tiết</string>
+    <string name="_share">Chia sẻ</string>
+    <string name="_adsloading">Đang tải quảng cáo</string>
+    <string name="_no_content">Không có nội dung nào trong danh sách này!</string>
+    <string name="_permission_required">Yêu cầu quyền</string>
+    <string name="_to_read_all_pdf">Để đọc tất cả các tệp PDF, hãy cho phép Trình đọc PDF truy cập tất cả các tệp</string>
+    <string name="_allow">Cho phép</string>
+    <string name="_skip">Bỏ qua</string>
+    <string name="_helpus">giúp chúng tôi</string>
+    <string name="_feedback">Phản hồi</string>
+    <string name="_rateus">Đánh giá chúng tôi</string>
+    <string name="_shareapp">Chia sẻ ứng dụng</string>
+    <string name="_date_modified">Ngày sửa đổi</string>
+    <string name="_desc">Mô tả</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Tên</string>
+    <string name="_filesize">Kích thước tệp</string>
+    <string name="_allfiles">Tất cả tập tin</string>
+    <string name="_print">In</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Tìm kiếm</string>
+    <string name="_sort">Sắp xếp</string>
+
+
+</resources>

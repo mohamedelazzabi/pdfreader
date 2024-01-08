@@ -1,0 +1,43 @@
+<resources>
+<string name="app_name">កម្មវិធីមើល PDF</string>
+<string name="Bookmark">ចំណាំ</string>
+<string name="Setting">ការកំណត់</string>
+<string name="_delete_warning">លុប​ការ​ព្រមាន!</string>
+<string name="_delete_msg">តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ឯកសារ​នេះ​ទេ</string>
+<string name="_no">ទេ</string>
+<string name="_yes">បាទ/ចាស</string>
+<string name="_rename_pdf">ប្តូរឈ្មោះ PDF</string>
+<string name="_rename">ប្តូរឈ្មោះ</string>
+<string name="_cancel">បោះបង់</string>
+<string name="_file_re_success">ឯកសារ​បាន​ប្តូរ​ឈ្មោះ​ដោយ​ជោគជ័យ</string>
+<string name="_file_re_failed">ការ​ប្តូរ​ឈ្មោះ​ឯកសារ​បាន​បរាជ័យ</string>
+<string name="_file_del_success">ឯកសារ​ត្រូវ​បាន​លុប​ដោយ​ជោគជ័យ</string>
+<string name="_file_del_failed">ឯកសារ​ដែល​បាន​លុប​បាន​បរាជ័យ</string>
+<string name="_shae">ចែករំលែកឯកសារ PDF</string>
+<string name="_permission_not_granted">ការ​អនុញ្ញាត​មិន​ត្រូវ​បាន​ផ្តល់​ទេ</string>
+<string name="_delete">លុប</string>
+<string name="_details">ព័ត៌មានលម្អិត</string>
+<string name="_share">ចែករំលែក</string>
+<string name="_adsloading">កំពុង​ផ្ទុក​ការផ្សាយពាណិជ្ជកម្ម</string>
+<string name="_no_content">មិន​មាន​ខ្លឹមសារ​ក្នុង​បញ្ជី​នេះ​ទេ!</string>
+<string name="_permission_required">ទាមទារ​ការអនុញ្ញាត</string>
+<string name="_to_read_all_pdf">ដើម្បី​អាន​ឯកសារ PDF ទាំងអស់ សូម​អនុញ្ញាត​ឱ្យ PDF Reader ចូល​ប្រើ​ឯកសារ​ទាំងអស់</string>
+<string name="_allow">អនុញ្ញាត</string>
+<string name="_skip">រំលង</string>
+<string name="_helpus">ជួយ​យើង</string>
+<string name="_feedback">មតិកែលម្អ</string>
+<string name="_rateus">វាយតម្លៃយើង</string>
+<string name="_shareapp">ចែករំលែកកម្មវិធី</string>
+<string name="_date_modified">កាលបរិច្ឆេទ​បាន​កែប្រែ</string>
+<string name="_desc">ពិពណ៌នា</string>
+<string name="_asc">Asc</string>
+<string name="_name">ឈ្មោះ</string>
+<string name="_filesize">ទំហំឯកសារ</string>
+<string name="_allfiles">ឯកសារ​ទាំងអស់</string>
+<string name="_print">បោះពុម្ព</string>
+<string name="_rtl">Rtl</string>
+<string name="_search">ស្វែងរក</string>
+<string name="_sort">តម្រៀប</string>
+
+
+    </resources>

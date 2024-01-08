@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-viewer</string>
+    <string name="Bookmark">Bladwijzer</string>
+    <string name="Setting">Instelling</string>
+    <string name="_delete_warning">Verwijder waarschuwing!</string>
+    <string name="_delete_msg">Weet je zeker dat je dit bestand wilt verwijderen</string>
+    <string name="_no">Nee</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">Hernoem PDF</string>
+    <string name="_rename">Hernoemen</string>
+    <string name="_cancel">Annuleren</string>
+    <string name="_file_re_success">Bestand hernoemd</string>
+    <string name="_file_re_failed">Hernoemen van bestand mislukt</string>
+    <string name="_file_del_success">Bestand succesvol verwijderd</string>
+    <string name="_file_del_failed">Bestand verwijderen mislukt</string>
+    <string name="_shae">PDF-bestand delen</string>
+    <string name="_permission_not_granted">Toestemming niet verleend</string>
+    <string name="_delete">Verwijderen</string>
+    <string name="_details">Details</string>
+    <string name="_share">Delen</string>
+    <string name="_adsloading">Advertenties worden geladen</string>
+    <string name="_no_content">Deze lijst bevat geen inhoud!</string>
+    <string name="_permission_required">Toestemming vereist</string>
+    <string name="_to_read_all_pdf">Om alle PDF-bestanden te lezen, geef PDF Reader toegang tot alle bestanden</string>
+    <string name="_allow">Toestaan</string>
+    <string name="_skip">Overslaan</string>
+    <string name="_helpus">help ons</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Beoordeel ons</string>
+    <string name="_shareapp">App delen</string>
+    <string name="_date_modified">Datum gewijzigd</string>
+    <string name="_desc">Omschrijving</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Naam</string>
+    <string name="_filesize">Bestandsgrootte</string>
+    <string name="_allfiles">Alle bestanden</string>
+    <string name="_print">Afdrukken</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Zoeken</string>
+    <string name="_sort">Sorteren</string>
+
+
+</resources>

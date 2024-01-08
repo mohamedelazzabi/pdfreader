@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-kyker</string>
+    <string name="Bookmark">Boekmerk</string>
+    <string name="Setting">Instelling</string>
+    <string name="_delete_warning">Vee waarskuwing uit!</string>
+    <string name="_delete_msg">Is jy seker jy wil hierdie lêer uitvee</string>
+    <string name="_no">Nee</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">Hernoem PDF</string>
+    <string name="_rename">Hernoem</string>
+    <string name="_cancel">Kanselleer</string>
+    <string name="_file_re_success">Lêer is suksesvol hernoem</string>
+    <string name="_file_re_failed">Lêerhernoem het misluk</string>
+    <string name="_file_del_success">Lêer is suksesvol uitgevee</string>
+    <string name="_file_del_failed">Lêer wat uitgevee is, het misluk</string>
+    <string name="_shae">Deel PDF-lêer</string>
+    <string name="_permission_not_granted">Toestemming nie verleen nie</string>
+    <string name="_delete">Vee uit</string>
+    <string name="_details">Besonderhede</string>
+    <string name="_share">Deel</string>
+    <string name="_adsloading">Advertensies laai</string>
+    <string name="_no_content">Daar is geen inhoud in hierdie lys nie!</string>
+    <string name="_permission_required">Toestemming vereis</string>
+    <string name="_to_read_all_pdf">Om alle PDF-lêers te lees, gee PDF Reader toegang tot alle lêers</string>
+    <string name="_allow">Laat toe</string>
+    <string name="_skip">Slaan oor</string>
+    <string name="_helpus">help ons</string>
+    <string name="_feedback">Terugvoer</string>
+    <string name="_rateus">Beoordeel ons</string>
+    <string name="_shareapp">Deel program</string>
+    <string name="_date_modified">Datum gewysig</string>
+    <string name="_desc">Beskrywing</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Naam</string>
+    <string name="_filesize">Lêergrootte</string>
+    <string name="_allfiles">Alle lêers</string>
+    <string name="_print">Druk</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Soek</string>
+    <string name="_sort">Sorteer</string>
+
+
+</resources>

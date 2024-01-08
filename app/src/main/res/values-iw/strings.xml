@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">מציג PDF</string>
+    <string name="Bookmark">סימנייה</string>
+    <string name="Setting">הגדרה</string>
+    <string name="_delete_warning">מחק אזהרה!</string>
+    <string name="_delete_msg">האם אתה בטוח שברצונך למחוק את הקובץ הזה</string>
+    <string name="_no">לא</string>
+    <string name="_yes">כן</string>
+    <string name="_rename_pdf">שנה שם PDF</string>
+    <string name="_rename">שנה שם</string>
+    <string name="_cancel">בטל</string>
+    <string name="_file_re_success">שם הקובץ שונה בהצלחה</string>
+    <string name="_file_re_failed">שינוי שם הקובץ נכשל</string>
+    <string name="_file_del_success">הקובץ נמחק בהצלחה</string>
+    <string name="_file_del_failed">הקובץ שנמחק נכשל</string>
+    <string name="_shae">שתף קובץ PDF</string>
+    <string name="_permission_not_granted">הרשאה לא ניתנה</string>
+    <string name="_delete">מחק</string>
+    <string name="_details">פרטים</string>
+    <string name="_share">שתף</string>
+    <string name="_adsloading">טעינת מודעות</string>
+    <string name="_no_content">אין תוכן ברשימה זו!</string>
+    <string name="_permission_required">נדרשת הרשאה</string>
+    <string name="_to_read_all_pdf">כדי לקרוא את כל קובצי ה-PDF, אפשר לקורא PDF לגשת לכל הקבצים</string>
+    <string name="_allow">אפשר</string>
+    <string name="_skip">דלג</string>
+    <string name="_helpus">עזרו לנו</string>
+    <string name="_feedback">משוב</string>
+    <string name="_rateus">דרג אותנו</string>
+    <string name="_shareapp">שתף אפליקציה</string>
+    <string name="_date_modified">תאריך שינוי</string>
+    <string name="_desc">תיאור</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">שם</string>
+    <string name="_filesize">גודל קובץ</string>
+    <string name="_allfiles">כל הקבצים</string>
+    <string name="_print">הדפס</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">חיפוש</string>
+    <string name="_sort">מיין</string>
+
+
+</resources>

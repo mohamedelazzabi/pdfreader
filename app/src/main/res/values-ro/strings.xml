@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Vizualizator PDF</string>
+    <string name="Bookmark">Marcaj</string>
+    <string name="Setting">Setare</string>
+    <string name="_delete_warning">Ștergeți avertisment!</string>
+    <string name="_delete_msg">Sunteți sigur că doriți să ștergeți acest fișier</string>
+    <string name="_no">Nu</string>
+    <string name="_yes">Da</string>
+    <string name="_rename_pdf">Redenumiți PDF</string>
+    <string name="_rename">Redenumiți</string>
+    <string name="_cancel">Anulați</string>
+    <string name="_file_re_success">Fișier redenumit cu succes</string>
+    <string name="_file_re_failed">Redenumirea fișierului a eșuat</string>
+    <string name="_file_del_success">Fișierul a fost șters cu succes</string>
+    <string name="_file_del_failed">Fișierul șters nu a reușit</string>
+    <string name="_shae">Partajați fișierul PDF</string>
+    <string name="_permission_not_granted">Permisiunea nu a fost acordată</string>
+    <string name="_delete">Șterge</string>
+    <string name="_details">Detalii</string>
+    <string name="_share">Distribuie</string>
+    <string name="_adsloading">Se încarcă anunțuri</string>
+    <string name="_no_content">Nu există conținut în această listă!</string>
+    <string name="_permission_required">Permisiunea necesară</string>
+    <string name="_to_read_all_pdf">Pentru a citi toate fișierele PDF, permiteți PDF Reader să acceseze toate fișierele</string>
+    <string name="_allow">Permite</string>
+    <string name="_skip">Omiteți</string>
+    <string name="_helpus">ajută-ne</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Evaluați-ne</string>
+    <string name="_shareapp">Partajați aplicația</string>
+    <string name="_date_modified">Data modificării</string>
+    <string name="_desc">Desc</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Nume</string>
+    <string name="_filesize">Dimensiunea fișierului</string>
+    <string name="_allfiles">Toate fișierele</string>
+    <string name="_print">Tipărește</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Căutare</string>
+    <string name="_sort">Sortează</string>
+
+
+</resources>

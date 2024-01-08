@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name = "Bookmark" > Хавчуурга</string>
+    <string name="Setting">Тохиргоо</string>
+    <string name="_delete_warning">Устгах анхааруулга!</string>
+    <string name="_delete_msg">Та энэ файлыг устгахдаа итгэлтэй байна уу</string>
+    <string name="_no">Үгүй</string>
+    <string name="_yes">Тийм</string>
+    <string name="_rename_pdf">PDF-н нэрийг өөрчлөх</string>
+    <string name="_rename">Нэрээ өөрчлөх</string>
+    <string name="_cancel">Цуцлах</string>
+    <string name="_file_re_success">Файлын нэрийг амжилттай өөрчилсөн</string>
+    <string name="_file_re_failed">Файлын нэрийг өөрчилж чадсангүй</string>
+    <string name="_file_del_success">Файлыг амжилттай устгалаа</string>
+    <string name="_file_del_failed">Файлыг устгаж чадсангүй</string>
+    <string name="_shae">PDF файл хуваалцах</string>
+    <string name="_permission_not_granted">Зөвшөөрөл олгоогүй</string>
+    <string name="_delete">Устгах</string>
+    <string name="_details">Дэлгэрэнгүй</string>
+    <string name="_share">Хуваалцах</string>
+    <string name="_adsloading">Зар ачаалж байна</string>
+    <string name = "_no_content" >Энэ жагсаалтад контент алга!</string>
+    <string name="_permission_required">Зөвшөөрөл шаардлагатай</string>
+    <string name = "_to_read_all_pdf">Бүх PDF файлыг уншихын тулд PDF Reader-д бүх файлд хандахыг зөвшөөрнө үү</string>
+    <string name="_allow">Зөвшөөрөх</string>
+    <string name="_skip">Алгасах</string>
+    <string name="_helpus">бидэнд туслаарай</string>
+    <string name="_feedback">Санал хүсэлт</string>
+    <string name="_rateus">Бидэнд үнэлгээ өгнө үү</string>
+    <string name="_shareapp">Програм хуваалцах</string>
+    <string name="_date_modified">Өөрчлөгдсөн огноо</string>
+    <string name = "_desc">Багас</string>
+    <string name="_asc">Өсөх</string>
+    <string name="_name">Нэр</string>
+    <string name="_filesize">Файлын хэмжээ</string>
+    <string name="_allfiles">Бүх файл</string>
+    <string name="_print">Хэвлэх</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Хайлт</string>
+    <string name="_sort">Ангилах</string>
+
+
+</resources>

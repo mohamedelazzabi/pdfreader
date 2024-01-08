@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Setting">Setting</string>
+    <string name="_delete_warning">Ħassar Twissija!</string>
+    <string name="_delete_msg">Int żgur li trid tħassar dan il-fajl</string>
+    <string name="_no">Le</string>
+    <string name="_yes">Iva</string>
+    <string name="_rename_pdf">Semmi mill-ġdid PDF</string>
+    <string name="_rename">Semmi mill-ġdid</string>
+    <string name="_cancel">Ikkanċella</string>
+    <string name="_file_re_success">Fajl ismu mill-ġdid b\'suċċess</string>
+    <string name="_file_re_failed">Ismijiet mill-ġdid tal-fajl fallew</string>
+    <string name="_file_del_success">Fajl imħassar b\'suċċess</string>
+    <string name="_file_del_failed">Fajl imħassar falla</string>
+    <string name="_shae">Aqsam il-fajl PDF</string>
+    <string name="_permission_not_granted">Permess mhux mogħti</string>
+    <string name="_delete">Ħassar</string>
+    <string name="_details">Dettalji</string>
+    <string name="_share">Aqsam</string>
+    <string name="_adsloading">Tagħbija tar-Reklami</string>
+    <string name="_no_content">M\'hemm l-ebda kontenut f\'din il-lista!</string>
+    <string name="_permission_required">Permess Meħtieġa</string>
+    <string name="_to_read_all_pdf">Biex taqra l-fajls PDF kollha, ħalli PDF Reader jaċċessa l-fajls kollha</string>
+    <string name="_allow">Ħalli</string>
+    <string name="_skip">Aqbeż</string>
+    <string name="_helpus">għinna</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Ipvaluta lilna</string>
+    <string name="_shareapp">Aqsam l-app</string>
+    <string name="_date_modified">Data Modifikata</string>
+    <string name="_desc">Desk</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Isem</string>
+    <string name="_filesize">Daqs tal-Fajl</string>
+    <string name="_allfiles">Il-fajls kollha</string>
+    <string name="_print">Istampa</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Fittex</string>
+    <string name="_sort">Issortja</string>
+
+
+</resources>

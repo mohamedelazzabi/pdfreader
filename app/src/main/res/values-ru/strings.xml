@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Просмотрщик PDF</string>
+    <string name="Bookmark">Закладка</string>
+    <string name="Setting">Настройка</string>
+    <string name="_delete_warning">Предупреждение об удалении!</string>
+    <string name="_delete_msg">Вы уверены, что хотите удалить этот файл</string>
+    <string name="_no">Нет</string>
+    <string name="_yes">Да</string>
+    <string name="_rename_pdf">Переименовать PDF</string>
+    <string name="_rename">Переименовать</string>
+    <string name="_cancel">Отменить</string>
+    <string name="_file_re_success">Файл успешно переименован</string>
+    <string name="_file_re_failed">Не удалось переименовать файл</string>
+    <string name="_file_del_success">Файл успешно удален</string>
+    <string name="_file_del_failed">Не удалось удалить файл</string>
+    <string name="_shae">Поделиться файлом PDF</string>
+    <string name="_permission_not_granted">Разрешение не предоставлено</string>
+    <string name="_delete">Удалить</string>
+    <string name="_details">Подробнее</string>
+    <string name="_share">Поделиться</string>
+    <string name="_adsloading">Загрузка рекламы</string>
+    <string name="_no_content">В этом списке нет содержимого!</string>
+    <string name="_permission_required">Требуется разрешение</string>
+    <string name="_to_read_all_pdf">Чтобы прочитать все PDF-файлы, разрешите PDF Reader доступ ко всем файлам</string>
+    <string name="_allow">Разрешить</string>
+    <string name="_skip">Пропустить</string>
+    <string name="_helpus">помогите нам</string>
+    <string name="_feedback">Отзыв</string>
+    <string name="_rateus">Оцените нас</string>
+    <string name="_shareapp">Поделиться приложением</string>
+    <string name="_date_modified">Дата изменения</string>
+    <string name="_desc">Описание</string>
+    <string name="_asc">По возрастанию</string>
+    <string name="_name">Имя</string>
+    <string name="_filesize">Размер файла</string>
+    <string name="_allfiles">Все файлы</string>
+    <string name="_print">Печать</string>
+    <string name="_rtl">Править</string>
+    <string name="_search">Поиск</string>
+    <string name="_sort">Сортировать</string>
+
+
+</resources>

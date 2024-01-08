@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="Bookmark">Əlfəcin</string>
+    <string name="Setting">Ayarlama</string>
+    <string name="_delete_warning">Xəbərdarlığı silin!</string>
+    <string name="_delete_msg">Bu faylı silmək istədiyinizə əminsiniz</string>
+    <string name="_no">Xeyr</string>
+    <string name="_yes">Bəli</string>
+    <string name="_rename_pdf">PDF adını dəyişin</string>
+    <string name="_rename">Adını dəyişdirin</string>
+    <string name="_cancel">Ləğv et</string>
+    <string name="_file_re_success">Faylın adı uğurla dəyişdirildi</string>
+    <string name="_file_re_failed">Faylın adını dəyişmək alınmadı</string>
+    <string name="_file_del_success">Fayl uğurla silindi</string>
+    <string name="_file_del_failed">Fayl silinmədi</string>
+    <string name="_shae">PDF faylını paylaşın</string>
+    <string name="_permission_not_granted">İcazə verilməyib</string>
+    <string name="_delete">Silin</string>
+    <string name="_details">Təfsilatlar</string>
+    <string name="_share">Paylaşın</string>
+    <string name="_adsloading">Reklamlar Yüklənir</string>
+    <string name="_no_content">Bu siyahıda məzmun yoxdur!</string>
+    <string name="_permission_required">İcazə Tələb olunur</string>
+    <string name="_to_read_all_pdf">Bütün PDF fayllarını oxumaq üçün PDF Reader proqramına bütün fayllara daxil olmağa icazə verin</string>
+    <string name="_allow">İcazə verin</string>
+    <string name="_skip">Keç</string>
+    <string name="_helpus">bizə kömək edin</string>
+    <string name="_feedback">Əlaqə</string>
+    <string name="_rateus">Bizi qiymətləndirin</string>
+    <string name="_shareapp">Tətbiqi paylaşın</string>
+    <string name="_date_modified">Dəyişdirilmə tarixi</string>
+    <string name="_desc">Açılan</string>
+    <string name="_asc">Artan</string>
+    <string name="_name">Ad</string>
+    <string name="_filesize">Fayl Ölçüsü</string>
+    <string name="_allfiles">Bütün fayllar</string>
+    <string name="_print">Çap edin</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Axtar</string>
+    <string name="_sort">Sort</string>
+
+
+</resources>

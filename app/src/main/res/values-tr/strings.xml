@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF Görüntüleyici</string>
+    <string name="Bookmark">Yer İşareti</string>
+    <string name="Setting">Ayar</string>
+    <string name="_delete_warning">Uyarıyı Silin!</string>
+    <string name="_delete_msg">Bu dosyayı silmek istediğinizden emin misiniz</string>
+    <string name="_no">Hayır</string>
+    <string name="_yes">Evet</string>
+    <string name="_rename_pdf">PDF\'yi Yeniden Adlandır</string>
+    <string name="_rename">Yeniden Adlandır</string>
+    <string name="_cancel">İptal</string>
+    <string name="_file_re_success">Dosya başarıyla yeniden adlandırıldı</string>
+    <string name="_file_re_failed">Dosya yeniden adlandırılamadı</string>
+    <string name="_file_del_success">Dosya başarıyla silindi</string>
+    <string name="_file_del_failed">Dosya silinemedi</string>
+    <string name="_shae">PDF dosyasını paylaşın</string>
+    <string name="_permission_not_granted">İzin verilmedi</string>
+    <string name="_delete">Sil</string>
+    <string name="_details">Ayrıntılar</string>
+    <string name="_share">Paylaş</string>
+    <string name="_adsloading">Reklamlar Yükleniyor</string>
+    <string name="_no_content">Bu listede içerik yok!</string>
+    <string name="_permission_required">İzin Gerekli</string>
+    <string name="_to_read_all_pdf">Tüm PDF dosyalarını okumak için PDF Reader\'ın tüm dosyalara erişmesine izin verin</string>
+    <string name="_allow">İzin ver</string>
+    <string name="_skip">Atla</string>
+    <string name="_helpus">bize yardım edin</string>
+    <string name="_feedback">Geri Bildirim</string>
+    <string name="_rateus">Bize puan verin</string>
+    <string name="_shareapp">Uygulamayı paylaş</string>
+    <string name="_date_modified">Değiştirme Tarihi</string>
+    <string name="_desc">Açıklama</string>
+    <string name="_asc">Artan</string>
+    <string name="_name">Ad</string>
+    <string name="_filesize">Dosya Boyutu</string>
+    <string name="_allfiles">Tüm dosyalar</string>
+    <string name="_print">Yazdır</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Ara</string>
+    <string name="_sort">Sırala</string>
+
+
+</resources>

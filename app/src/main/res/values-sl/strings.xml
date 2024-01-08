@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pregledovalnik PDF</string>
+    <string name="Bookmark">Zaznamek</string>
+    <string name="Setting">Nastavitev</string>
+    <string name="_delete_warning">Izbriši opozorilo!</string>
+    <string name="_delete_msg">Ali ste prepričani, da želite izbrisati to datoteko</string>
+    <string name="_no">Ne</string>
+    <string name="_yes">Da</string>
+    <string name="_rename_pdf">Preimenuj PDF</string>
+    <string name="_rename">Preimenuj</string>
+    <string name="_cancel">Prekliči</string>
+    <string name="_file_re_success">Datoteka je bila uspešno preimenovana</string>
+    <string name="_file_re_failed">Preimenovanje datoteke ni uspelo</string>
+    <string name="_file_del_success">Datoteka je bila uspešno izbrisana</string>
+    <string name="_file_del_failed">Brisanje datoteke ni uspelo</string>
+    <string name="_shae">Skupna raba datoteke PDF</string>
+    <string name="_permission_not_granted">Dovoljenje ni odobreno</string>
+    <string name="_delete">Izbriši</string>
+    <string name="_details">Podrobnosti</string>
+    <string name="_share">Skupna raba</string>
+    <string name="_adsloading">Nalaganje oglasov</string>
+    <string name="_no_content">Na tem seznamu ni nobene vsebine!</string>
+    <string name="_permission_required">Potrebno je dovoljenje</string>
+    <string name="_to_read_all_pdf">Če želite prebrati vse datoteke PDF, omogočite bralniku PDF dostop do vseh datotek</string>
+    <string name="_allow">Dovoli</string>
+    <string name="_skip">Preskoči</string>
+    <string name="_helpus">pomagajte nam</string>
+    <string name="_feedback">Povratne informacije</string>
+    <string name="_rateus">Ocenite nas</string>
+    <string name="_shareapp">Skupna raba aplikacije</string>
+    <string name="_date_modified">Datum spremembe</string>
+    <string name="_desc">Opis</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Ime</string>
+    <string name="_filesize">Velikost datoteke</string>
+    <string name="_allfiles">Vse datoteke</string>
+    <string name="_print">Natisni</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Iskanje</string>
+    <string name="_sort">Razvrsti</string>
+
+
+</resources>

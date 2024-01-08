@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PopupWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/popup_window_enter</item>
+        <item name="android:windowExitAnimation">@anim/popup_window_exit</item>
+    </style>
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Set the button colors -->
+        <item name="colorAccent">@color/my_button_color</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="FontLocalized">
+        <item name="android:fontFamily">@font/caviar_dreams_bold</item>
+    </style>
+    <style name="Fonttitle">
+        <item name="android:fontFamily">@font/caviardreams</item>
+    </style>
+    <style name="titleFont">
+        <item name="android:fontFamily">@font/qualybold</item>
+    </style>
+
+    <style name="MyTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize the color of the action bar -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!-- Customize the color of the status bar -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+
+        <!-- Customize the style of the action bar -->
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <!-- Customize the background color of the action bar -->
+        <item name="background">@color/colorPrimary</item>
+        <item name="font">@style/FontLocalized</item>
+
+        <!-- Customize the color of the title text -->
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+<string name="app_name">पीडीएफ व्यूअर</string>
+<string name="Bookmark">Bookmark</string>
+<string name="Setting">सेटिंग</string>
+<string name="_delete_warning">चेतावनी हटाएं!</string>
+<string name="_delete_msg">क्या आप सुनिश्चित हैं कि आप इस फ़ाइल को हटाना चाहते हैं</string>
+<string name="_no">नहीं</string>
+<string name="_yes">हां</string>
+<string name="_rename_pdf">पीडीएफ का नाम बदलें</string>
+<string name="_rename">नाम बदलें</string>
+<string name="_cancel">रद्द करें</string>
+<string name="_file_re_success">फ़ाइल का नाम सफलतापूर्वक बदला गया</string>
+<string name="_file_re_failed">फ़ाइल का नाम बदलना विफल</string>
+<string name="_file_del_success">फ़ाइल सफलतापूर्वक हटाई गई</string>
+<string name="_file_del_failed">फ़ाइल हटाई गई विफल</string>
+<string name="_shae">पीडीएफ फाइल साझा करें</string>
+<string name="_permission_not_granted">अनुमति नहीं दी गई</string>
+<string name="_delete">हटाएं</string>
+<string name="_details">विवरण</string>
+<string name="_share">साझा करें</string>
+<string name="_adsloading">विज्ञापन लोड हो रहे हैं</string>
+<string name="_no_content">इस सूची में कोई सामग्री नहीं है!</string>
+<string name="_permission_required">अनुमति आवश्यक है</string>
+<string name="_to_read_all_pdf">सभी पीडीएफ फाइलों को पढ़ने के लिए, पीडीएफ रीडर को सभी फाइलों तक पहुंचने की अनुमति दें</string>
+<string name="_allow">अनुमति दें</string>
+<string name="_skip">छोड़ें</string>
+<string name="_helpus">हमारी मदद करें</string>
+<string name="_feedback">प्रतिक्रिया</string>
+<string name="_rateus">हमें रेट करें</string>
+<string name = "_shareapp"> ऐप साझा करें </string>
+<string name="_date_modified">तारीख संशोधित</string>
+<string name="_desc">वर्णन</string>
+<string name="_asc">Asc</string>
+<string name="_name">नाम</string>
+<string name="_filesize">फ़ाइल का आकार</string>
+<string name="_allfiles">सभी फ़ाइलें</string>
+<string name="_print">प्रिंट करें</string>
+<string name="_rtl">आरटीएल</string>
+<string name="_search">खोजें</string>
+<string name="_sort">क्रमबद्ध करें</string>
+
+
+    </resources>

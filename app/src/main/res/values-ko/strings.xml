@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF 뷰어</string>
+    <string name="Bookmark">북마크</string>
+    <string name="Setting">설정</string>
+    <string name="_delete_warning">삭제 경고!</string>
+    <string name="_delete_msg">이 파일을 삭제하시겠습니까</string>
+    <string name="_no">아니오</string>
+    <string name="_yes">예</string>
+    <string name="_rename_pdf">PDF 이름 바꾸기</string>
+    <string name="_rename">이름 바꾸기</string>
+    <string name="_cancel">취소</string>
+    <string name="_file_re_success">파일 이름이 성공적으로 변경되었습니다</string>
+    <string name="_file_re_failed">파일 이름 변경 실패</string>
+    <string name="_file_del_success">파일이 성공적으로 삭제되었습니다</string>
+    <string name="_file_del_failed">파일 삭제 실패</string>
+    <string name="_shae">PDF 파일 공유</string>
+    <string name="_permission_not_granted">권한이 부여되지 않았습니다</string>
+    <string name="_delete">삭제</string>
+    <string name="_details">자세히</string>
+    <string name="_share">공유</string>
+    <string name="_adsloading">광고 로드 중</string>
+    <string name="_no_content">이 목록에 콘텐츠가 없습니다!</string>
+    <string name="_permission_required">필요한 권한</string>
+    <string name="_to_read_all_pdf">모든 PDF 파일을 읽으려면 PDF Reader가 모든 파일에 접근할 수 있도록 허용하세요</string>
+    <string name="_allow">허용</string>
+    <string name="_skip">건너뛰기</string>
+    <string name="_helpus">도와주세요</string>
+    <string name="_feedback">피드백</string>
+    <string name="_rateus">평가하기</string>
+    <string name="_shareapp">앱 공유</string>
+    <string name="_date_modified">수정 날짜</string>
+    <string name="_desc">설명</string>
+    <string name="_asc">오름차순</string>
+    <string name="_name">이름</string>
+    <string name="_filesize">파일 크기</string>
+    <string name="_allfiles">모든 파일</string>
+    <string name="_print">인쇄</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">검색</string>
+    <string name="_sort">정렬</string>
+
+
+</resources>

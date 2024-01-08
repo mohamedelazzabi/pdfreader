@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Προβολή PDF</string>
+    <string name="Bookmark">Σελιδοδείκτης</string>
+    <string name="Setting">Ρύθμιση</string>
+    <string name="_delete_warning">Διαγραφή προειδοποίησης!</string>
+    <string name="_delete_msg">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το αρχείο</string>
+    <string name="_no">Όχι</string>
+    <string name="_yes">Ναι</string>
+    <string name="_rename_pdf">Μετονομασία PDF</string>
+    <string name="_rename">Μετονομασία</string>
+    <string name="_cancel">Ακύρωση</string>
+    <string name="_file_re_success">Το αρχείο μετονομάστηκε επιτυχώς</string>
+    <string name="_file_re_failed">Η μετονομασία του αρχείου απέτυχε</string>
+    <string name="_file_del_success">Το αρχείο διαγράφηκε επιτυχώς</string>
+    <string name="_file_del_failed">Η διαγραφή του αρχείου απέτυχε</string>
+    <string name="_shae">Κοινή χρήση αρχείου PDF</string>
+    <string name="_permission_not_granted">Η άδεια δεν χορηγήθηκε</string>
+    <string name="_delete">Διαγραφή</string>
+    <string name="_details">Λεπτομέρειες</string>
+    <string name="_share">Κοινή χρήση</string>
+    <string name="_adsloading">Φόρτωση διαφημίσεων</string>
+    <string name="_no_content">Δεν υπάρχουν περιεχόμενα σε αυτήν τη λίστα!</string>
+    <string name="_permission_required">Απαιτείται άδεια</string>
+    <string name="_to_read_all_pdf">Για να διαβάσετε όλα τα αρχεία PDF, επιτρέψτε στον Αναγνώστη PDF να έχει πρόσβαση σε όλα τα αρχεία</string>
+    <string name="_allow">Να επιτρέπεται</string>
+    <string name="_skip">Παράλειψη</string>
+    <string name="_helpus">βοηθήστε μας</string>
+    <string name="_feedback">Σχόλια</string>
+    <string name="_rateus">Βαθμολογήστε μας</string>
+    <string name="_shareapp">Κοινή χρήση εφαρμογής</string>
+    <string name="_date_modified">Ημερομηνία τροποποίησης</string>
+    <string name="_desc">Περιγραφή</string>
+    <string name="_asc">Αύξηση</string>
+    <string name="_name">Όνομα</string>
+    <string name="_filesize">Μέγεθος αρχείου</string>
+    <string name="_allfiles">Όλα τα αρχεία</string>
+    <string name="_print">Εκτύπωση</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Αναζήτηση</string>
+    <string name="_sort">Ταξινόμηση</string>
+
+
+</resources>

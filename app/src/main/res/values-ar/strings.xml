@@ -1,0 +1,43 @@
+<resources>
+    <string name = "app_name"> عارض PDF </string>
+    <string name = "Bookmark"> إشارة مرجعية </string>
+    <string name = "Setting"> الإعداد </string>
+    <string name = "_delete_warning"> حذف تحذير! </string>
+    <string name = "_delete_msg"> هل أنت متأكد أنك تريد حذف هذا الملف </string>
+    <string name = "_no"> لا </string>
+    <string name = "_yes"> نعم </string>
+    <string name = "_rename_pdf"> إعادة تسمية PDF </string>
+    <string name = "_rename"> إعادة تسمية </string>
+    <string name = "_cancel"> إلغاء </string>
+    <string name = "_file_re_success"> تمت إعادة تسمية الملف بنجاح </string>
+    <string name = "_file_re_failed"> فشل إعادة تسمية الملف </string>
+    <string name = "_file_del_success"> تم حذف الملف بنجاح </string>
+    <string name = "_file_del_failed"> فشل حذف الملف </string>
+    <string name = "_shae"> مشاركة ملف PDF </string>
+    <string name = "_permission_not_granted"> الإذن غير ممنوح </string>
+    <string name = "_delete"> حذف </string>
+    <string name = "_details"> التفاصيل </string>
+    <string name = "_share"> مشاركة </string>
+    <string name = "_adsloading"> تحميل الإعلانات </string>
+    <string name = "_no_content"> لا توجد محتويات في هذه القائمة! </string>
+    <string name = "_permission_required"> الإذن مطلوب </string>
+    <string name = "_to_read_all_pdf"> لقراءة جميع ملفات PDF ، اسمح لقارئ PDF بالوصول إلى جميع الملفات </string>
+    <string name = "_allow"> سماح </string>
+    <string name = "_skip"> تخطي </string>
+    <string name = "_helpus"> ساعدنا </string>
+    <string name = "_feedback"> الملاحظات </string>
+    <string name = "_rateus"> قيمنا </string>
+    <string name = "_shareapp"> مشاركة التطبيق </string>
+    <string name = "_date_modified"> تاريخ التعديل </string>
+    <string name = "_desc"> تنازلي </string>
+    <string name = "_asc"> تصاعدي </string>
+    <string name = "_name"> الاسم </string>
+    <string name = "_filesize"> حجم الملف </string>
+    <string name = "_allfiles"> كافة الملفات </string>
+    <string name = "_print"> طباعة </string>
+    <string name = "_rtl"> Rtl </string>
+    <string name = "_search"> بحث </string>
+    <string name = "_sort"> فرز </string>
+
+
+</resources>

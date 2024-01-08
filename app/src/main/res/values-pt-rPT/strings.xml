@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Visualizador de PDF</string>
+    <string name="Bookmark">Marcador</string>
+    <string name="Setting">Configuração</string>
+    <string name="_delete_warning">Excluir aviso!</string>
+    <string name="_delete_msg">Tem certeza que deseja excluir este arquivo</string>
+    <string name="_no">Não</string>
+    <string name="_yes">Sim</string>
+    <string name="_rename_pdf">Renomear PDF</string>
+    <string name="_rename">Renomear</string>
+    <string name="_cancel">Cancelar</string>
+    <string name="_file_re_success">Arquivo renomeado com sucesso</string>
+    <string name="_file_re_failed">Falha ao renomear o arquivo</string>
+    <string name="_file_del_success">Arquivo excluído com sucesso</string>
+    <string name="_file_del_failed">Falha ao excluir arquivo</string>
+    <string name="_shae">Compartilhar arquivo PDF</string>
+    <string name="_permission_not_granted">Permissão não concedida</string>
+    <string name="_delete">Excluir</string>
+    <string name="_details">Detalhes</string>
+    <string name="_share">Compartilhar</string>
+    <string name="_adsloading">Carregamento de anúncios</string>
+    <string name="_no_content">Não há conteúdo nesta lista!</string>
+    <string name="_permission_required">Permissão necessária</string>
+    <string name="_to_read_all_pdf">Para ler todos os arquivos PDF, permita que o PDF Reader acesse todos os arquivos</string>
+    <string name="_allow">Permitir</string>
+    <string name="_skip">Ignorar</string>
+    <string name="_helpus">ajude-nos</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Avalie-nos</string>
+    <string name="_shareapp">Compartilhar aplicativo</string>
+    <string name="_date_modified">Data de modificação</string>
+    <string name="_desc">Desc</string>
+    <string name="_asc">ASC</string>
+    <string name="_name">Nome</string>
+    <string name="_filesize">Tamanho do arquivo</string>
+    <string name="_allfiles">Todos os arquivos</string>
+    <string name="_print">Imprimir</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Pesquisar</string>
+    <string name="_sort">Classificar</string>
+
+
+</resources>

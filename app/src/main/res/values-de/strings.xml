@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF-Viewer</string>
+    <string name="Bookmark">Lesezeichen</string>
+    <string name="Setting">Einstellung</string>
+    <string name="_delete_warning">Warnung löschen!</string>
+    <string name="_delete_msg">Möchten Sie diese Datei wirklich löschen</string>
+    <string name="_no">Nein</string>
+    <string name="_yes">Ja</string>
+    <string name="_rename_pdf">PDF umbenennen</string>
+    <string name="_rename">Umbenennen</string>
+    <string name="_cancel">Abbrechen</string>
+    <string name="_file_re_success">Datei erfolgreich umbenannt</string>
+    <string name="_file_re_failed">Dateiumbenennung fehlgeschlagen</string>
+    <string name="_file_del_success">Datei erfolgreich gelöscht</string>
+    <string name="_file_del_failed">Datei löschen fehlgeschlagen</string>
+    <string name="_shae">PDF-Datei teilen</string>
+    <string name="_permission_not_granted">Berechtigung nicht erteilt</string>
+    <string name="_delete">Löschen</string>
+    <string name="_details">Details</string>
+    <string name="_share">Teilen</string>
+    <string name="_adsloading">Laden von Anzeigen</string>
+    <string name="_no_content">Diese Liste enthält keine Inhalte!</string>
+    <string name="_permission_required">Berechtigung erforderlich</string>
+    <string name="_to_read_all_pdf">Um alle PDF-Dateien zu lesen, erlaube PDF Reader den Zugriff auf alle Dateien</string>
+    <string name="_allow">Zulassen</string>
+    <string name="_skip">Überspringen</string>
+    <string name="_helpus">hilf uns</string>
+    <string name="_feedback">Feedback</string>
+    <string name="_rateus">Bewerte uns</string>
+    <string name="_shareapp">App teilen</string>
+    <string name="_date_modified">Änderungsdatum</string>
+    <string name="_desc">Beschreibung</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Name</string>
+    <string name="_filesize">Dateigröße</string>
+    <string name="_allfiles">Alle Dateien</string>
+    <string name="_print">Drucken</string>
+    <string name="_rtl">RTL</string>
+    <string name="_search">Suche</string>
+    <string name="_sort">Sortieren</string>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PDF მაყურებელი</string>
+    <string name="Bookmark">სანიშნე</string>
+    <string name="Setting">პარამეტრები</string>
+    <string name="_delete_warning">გაფრთხილების წაშლა!</string>
+    <string name="_delete_msg">დარწმუნებული ხართ, რომ გსურთ ამ ფაილის წაშლა</string>
+    <string name="_no">არა</string>
+    <string name="_yes">დიახ</string>
+    <string name="_rename_pdf">გადარქმევა PDF</string>
+    <string name="_rename">გადარქმევა</string>
+    <string name="_cancel">გაუქმება</string>
+    <string name="_file_re_success">ფაილის სახელი წარმატებით შეიცვალა</string>
+    <string name="_file_re_failed">ფაილის გადარქმევა ვერ მოხერხდა</string>
+    <string name="_file_del_success">ფაილი წარმატებით წაიშალა</string>
+    <string name="_file_del_failed">ფაილი ვერ წაიშალა</string>
+    <string name="_shae">გააზიარეთ PDF ფაილი</string>
+    <string name="_permission_not_granted">ნებართვა არ არის მინიჭებული</string>
+    <string name="_delete">წაშლა</string>
+    <string name="_details">დეტალები</string>
+    <string name="_share">გაზიარება</string>
+    <string name="_adsloading">რეკლამა იტვირთება</string>
+    <string name="_no_content">ამ სიაში შიგთავსი არ არის!</string>
+    <string name="_permission_required">ნებართვა საჭიროა</string>
+    <string name="_to_read_all_pdf">ყველა PDF ფაილის წასაკითხად ნება მიეცით PDF Reader-ს ყველა ფაილზე წვდომა</string>
+    <string name="_allow">დაშვება</string>
+    <string name="_skip">გამოტოვება</string>
+    <string name="_helpus">დაგვეხმარეთ</string>
+    <string name="_feedback">გამოხმაურება</string>
+    <string name="_rateus">შეგვფასეთ</string>
+    <string name="_shareapp">აპის გაზიარება</string>
+    <string name="_date_modified">შეცვლის თარიღი</string>
+    <string name="_desc">აღმოწერა</string>
+    <string name="_asc">ასკ</string>
+    <string name="_name">სახელი</string>
+    <string name="_filesize">ფაილის ზომა</string>
+    <string name="_allfiles">ყველა ფაილი</string>
+    <string name="_print">ბეჭდვა</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">ძებნა</string>
+    <string name="_sort">დახარისხება</string>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Shikues PDF</string>
+    <string name="Bookmark">Faqeshënues</string>
+    <string name="Setting">Cilësimi</string>
+    <string name="_delete_warning">Fshi paralajmërimin!</string>
+    <string name="_delete_msg">A je i sigurt që dëshiron ta fshish këtë skedar</string>
+    <string name="_no">Jo</string>
+    <string name="_yes">Po</string>
+    <string name="_rename_pdf">Riemërto PDF</string>
+    <string name="_rename">Riemërto</string>
+    <string name="_cancel">Anulo</string>
+    <string name="_file_re_success">Skedari u riemërua me sukses</string>
+    <string name="_file_re_failed">Riemërtimi i skedarit dështoi</string>
+    <string name="_file_del_success">Skedari u fshi me sukses</string>
+    <string name="_file_del_failed">Skedari i fshirë dështoi</string>
+    <string name="_shae">Ndani skedarin PDF</string>
+    <string name="_permission_not_granted">Leja nuk është dhënë</string>
+    <string name="_delete">Fshi</string>
+    <string name="_details">Detajet</string>
+    <string name="_share">Ndaje</string>
+    <string name="_adsloading">Po ngarkohen reklamat</string>
+    <string name="_no_content">Nuk ka përmbajtje në këtë listë!</string>
+    <string name="_permission_required">Kërkohet leje</string>
+    <string name="_to_read_all_pdf">Për të lexuar të gjithë skedarët PDF, lejo që PDF Reader të ketë qasje në të gjithë skedarët</string>
+    <string name="_allow">Lejo</string>
+    <string name="_skip">Kapërce</string>
+    <string name="_helpus">na ndihmoni</string>
+    <string name="_feedback">Përgjigje</string>
+    <string name="_rateus">Na vlerësoni</string>
+    <string name="_shareapp">Ndani aplikacionin</string>
+    <string name="_date_modified">Data e modifikimit</string>
+    <string name="_desc">Përshkruani</string>
+    <string name="_asc">Asc</string>
+    <string name="_name">Emri</string>
+    <string name="_filesize">Madhësia e skedarit</string>
+    <string name="_allfiles">Të gjithë skedarët</string>
+    <string name="_print">Printo</string>
+    <string name="_rtl">Rtl</string>
+    <string name="_search">Kërko</string>
+    <string name="_sort">Rendit</string>
+
+
+</resources>
